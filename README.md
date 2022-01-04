@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zamanmughal98
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React js( React Native)
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on some projects sometimes
 - 📫 Reach me throught my email account "zamanmughal98@gmail.com" or through my facebook or instagram "https://www.facebook.com/zaman.mughal.1998/" & "https://www.instagram.com/zaman.mughal_/"
 
